@@ -1,0 +1,23 @@
+/Tive de atualizar o pip("package installer for Python") para a versão mais recente.
+pip install --upgrade pip
+
+/SpaCy: É uma biblioteca moderna e muito eficiente para processamento de linguagem natural.
+ O SpaCy é utilizado para tarefas como análise sintática, reconhecimento de entidades e classificação de palavras.
+ Pode ser usado para as respostas da assistente, etc...
+/NLTK (Natural Language Toolkit): É uma biblioteca mais abrangente para tarefas de NLP, oferecendo recursos de análise de textos, tokenização, e uma variedade de outras ferramentas.
+ É melhor para criar respostas(para corrigir e criar roteiros).
+pip install spacy nltk
+
+/Instala o modelo de idioma em português para o SpaCy.
+python -m spacy download pt_core_news_sm
+
+/O Vosk é uma biblioteca de reconhecimento de voz offline que permite transcrever o áudio para texto, sem depender de uma conexão com a internet.
+pip install vosk
+
+/A PyAutoGUI permite a automação de tarefas no sistema, controlando o mouse e o teclado. 
+pip install pyautogui
+
+/Esses pacotes são usados para obter e analisar dados da web
+ Requests: É uma biblioteca popular para fazer requisições HTTP.
+ BeautifulSoup4: É uma biblioteca para análise e extração de dados de HTML e XML.
+pip install requests beautifulsoup4
