@@ -21,3 +21,6 @@ pip install pyautogui
  Requests: É uma biblioteca popular para fazer requisições HTTP.
  BeautifulSoup4: É uma biblioteca para análise e extração de dados de HTML e XML.
 pip install requests beautifulsoup4
+
+/Modelo - vosk-model-small-pt-0.3
+https://alphacephei.com/vosk/models 
