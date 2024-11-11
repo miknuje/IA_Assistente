@@ -23,4 +23,5 @@ pip install pyautogui
 pip install requests beautifulsoup4
 
 /Modelo - vosk-model-small-pt-0.3
+https://github.com/alphacep/vosk-api?tab=readme-ov-file
 https://alphacephei.com/vosk/models 
