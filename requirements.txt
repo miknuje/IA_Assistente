@@ -31,6 +31,12 @@ pip install pyautogui
  BeautifulSoup4: É uma biblioteca para análise e extração de dados de HTML e XML.
 pip install requests beautifulsoup4
 
+/Principais funcionalidades do PyAudio
+ Captura de áudio
+ Reprodução de áudio
+ Manipulação de fluxos de áudio
+pip install pyaudio  
+
 /Modelo - vosk-model-small-pt-0.3
 https://github.com/alphacep/vosk-api?tab=readme-ov-file
 https://alphacephei.com/vosk/models 
