@@ -1,3 +1,12 @@
+/Todas as bliblotecas:
+spacy
+nltk
+vosk
+pyaudio
+pyautogui
+requests
+beautifulsoup4
+
 /Tive de atualizar o pip("package installer for Python") para a versão mais recente.
 pip install --upgrade pip
 
