@@ -1,6 +1,8 @@
+import sys
+sys.path.append('./src')
 import tkinter as tk
-from src.assistente import assistente_virtual  # Importa a função principal do assistente
-from src.reconhecimento_voz import ouvir_comando
+from assistente import assistente_virtual 
+from reconhecimento_voz import ouvir_comando
 
 class AssistenteApp:
     def __init__(self, root):

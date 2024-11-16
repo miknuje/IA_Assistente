@@ -1,0 +1,7 @@
+spacy
+nltk
+vosk
+pyaudio
+pyautogui
+requests
+beautifulsoup4

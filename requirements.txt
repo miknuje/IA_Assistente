@@ -1,3 +1,9 @@
+pip install -r requirementsInstall.txt
+
+python -m venv venv
+.\venv\Scripts\activate
+pip install -r requirementsInstall.txt
+
 /Todas as bliblotecas:
 spacy
 nltk
