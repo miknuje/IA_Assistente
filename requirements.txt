@@ -22,6 +22,7 @@ pip install --upgrade pip
 /NLTK (Natural Language Toolkit): É uma biblioteca mais abrangente para tarefas de NLP, oferecendo recursos de análise de textos, tokenização, e uma variedade de outras ferramentas.
  É melhor para criar respostas(para corrigir e criar roteiros).
 pip install spacy nltk
+python -m spacy download pt_core_news_sm
 
 /Instala o modelo de idioma em português para o SpaCy.
 python -m spacy download pt_core_news_sm
