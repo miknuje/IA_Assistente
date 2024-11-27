@@ -6,4 +6,4 @@ pyautogui
 requests
 beautifulsoup4
 bs4
-requests
+mysql

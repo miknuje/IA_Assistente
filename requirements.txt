@@ -1,5 +1,7 @@
 pip install -r requirementsInstall.txt
 
+pip install mysql-connector-python
+
 python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirementsInstall.txt
@@ -12,6 +14,8 @@ pyaudio
 pyautogui
 requests
 beautifulsoup4
+mysql
+bs4
 
 /Tive de atualizar o pip("package installer for Python") para a versão mais recente.
 pip install --upgrade pip
